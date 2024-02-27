@@ -1,8 +1,8 @@
-<html lang="pt-br">
-</head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-w"
-</head>
-:body>
-   </heade>
-   <img src="" alt=""
+body{
+    background-color: blue;
+    color:white;
+} 
+
+.cabecalho{
+    background-color: #383d58;
+}

@@ -34,5 +34,10 @@ body{
 .secaol{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    padding: 24px;
+}
+
+.secaol-div{
+    width: 35%;
 }

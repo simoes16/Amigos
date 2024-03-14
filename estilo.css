@@ -38,6 +38,10 @@ body{
     padding: 24px;
 }
 
-.secaol-div{
+.secaol-titulo{
     width: 35%;
+}
+
+.secaol-imagem{
+    padding: 20%;
 }

@@ -45,3 +45,10 @@ body{
 .secaol-imagem{
     padding: 20%;
 }
+
+.secao2{
+    background-color: #d9d9d9;
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}

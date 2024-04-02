@@ -51,4 +51,14 @@ body{
     text-align: center;
     font-size: 30px;
     color: blue;
+    padding: 20px 0;
+}
+.secao2 todos os amigos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-top: 30px;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
 }
